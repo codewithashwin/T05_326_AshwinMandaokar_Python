@@ -38,12 +38,12 @@ Counter:
 Types of loops
 1. While:
     while loops are known as indefinite or conditional loops, they keep iterating (do again and again and again) until
-    certain conditions are met
+    certain conditions are met or False
     Syntax:
     while expression:
         statement  
 2. For:
-    for loop is a python loop which repeats a group of statements a specified number of times.
+    for loop is a python loop which iterate a group of elements a specified number of times.
     Syntax:
     for <variable> in sequence:
         pass
