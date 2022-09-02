@@ -91,7 +91,7 @@ Python supports to have an else statement associated with a loop statement
 # """
 # Approach
 # 1. use the nested loop
-# 2. in second loop it start from i + 1
+# 2. in second loop it start from i + 1 till len(nums)
 # 3. check for addition and then return the list of indexes
 # """
 def two_sums(inp, tar):
@@ -102,7 +102,6 @@ def two_sums(inp, tar):
 
 
 print(two_sums([2, 7, 11, 15], 22))
-
 
 # Get unique values
 
@@ -126,7 +125,6 @@ print(list_of_unique_ele)
 # another way
 print(list(set(list1)))
 
-
 # Remove even elements and print list
 """
 1. iterate the list
@@ -142,7 +140,6 @@ for index, each_char in enumerate(list_of_elements):
         new_list.append(each_char)
 
 print(new_list)
-
 
 # Remove specified index from list and print
 
@@ -166,7 +163,6 @@ for indx, each_ele in enumerate(list_of_elements):
 
 print(new_list)
 
-
 # Finding a second-smallest number
 
 """
@@ -188,7 +184,6 @@ smallest_ele = list1[0]
 for i in list1:
     if smallest_ele > i:
         smallest_ele = i
-
 
 list1.remove(smallest_ele)  # it removes last element from
 
