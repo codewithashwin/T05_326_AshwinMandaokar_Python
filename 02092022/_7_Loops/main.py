@@ -48,7 +48,7 @@ Types of loops
     for <variable> in sequence:
         pass
     Ex 
-    for letter in 'Python':
+    for letter in 'Python': 
 	    print('Current Letter :', letter)
 
 3. Nested: 
