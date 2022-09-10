@@ -1,0 +1,9 @@
+Google Meet gets a new live sharing feature that lets users watch and play games together in video calls.
+They can now pin specific participants of a Google Meet call that they choose.
+These are rolling out now, reported GSM Arena. Nearby Share will receive an opt-in option "in the next few weeks".
+This will let users send content to nearby devices on their Google account without a prompt, even if the screen is off.
+Google Apps will also have larger widgets optimized for Android Tablets.
+There are also new accessibility features on Android for the hearing or visually impaired.
+One is called Custom Sound Notifications and when enabled it hears specific sounds and notifies the user by vibration,
+flashing light, or a Wear OS notification. Finally, Wear OS (topic/wear-os) gets new Bitmoji watch faces and there's a
+new Google Keep tile that makes it easier to quickly dictate a note or look at your other notes, as per GSM Arena.
